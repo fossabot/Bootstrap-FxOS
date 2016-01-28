@@ -11,9 +11,9 @@ Just replace the files in your bootstrap project with the files in the /dist fol
 [Build Instructions]
 
 ## Credits
-[Bootstrap] framework by the Bootstrap team
-Font and design language by [Mozilla]
-Theme by [Kieran Mesquita]
+- [Bootstrap] framework by the Bootstrap team
+- Font and design language by [Mozilla]
+- Theme by [Kieran Mesquita]
 
 [Bootstrap]: <http://getbootstrap.com>
 [Build Instructions]: <https://github.com/twbs/bootstrap>
