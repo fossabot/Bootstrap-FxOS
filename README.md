@@ -1,4 +1,6 @@
 # Bootstrap-FxOS
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmesquka%2FBootstrap-FxOS.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmesquka%2FBootstrap-FxOS?ref=badge_shield)
+
 Bootstrap theme for Firefox OS
 
 ## Usage
@@ -19,3 +21,6 @@ Just replace the files in your bootstrap project with the files in the /dist fol
 [Build Instructions]: <https://github.com/twbs/bootstrap>
 [Kieran Mesquita]: <http://kmesquita.com>
 [Mozilla]: <https://www.mozilla.org>
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmesquka%2FBootstrap-FxOS.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmesquka%2FBootstrap-FxOS?ref=badge_large)
